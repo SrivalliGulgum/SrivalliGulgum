@@ -7,9 +7,9 @@
 </div>
 <div align="center">
 
-# 👋 Hey, I'm Rohith Annam!
+# 👋 Hey, I'm Gulgum Srivalli!
 
-### 👨‍💻 Programmer | 🤖 AI Engineering | 🌐 Web Development | ☁️ DevOps & Cloud
+### 👨‍💻 Programmer | 🤖 Software Testing | 🌐 Web Development | ☁️ IOT | Software Tester
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Solutions;Developing+Modern+Web+Applications;Exploring+DevOps+%26+Cloud;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
@@ -23,9 +23,9 @@
 - 💻 Passionate about programming and software development.
 - 🤖 Exploring Artificial Intelligence and Machine Learning.
 - 🌐 Building modern web applications and full-stack projects.
-- ☁️ Learning DevOps, cloud computing, and automation.
+- ☁️ Learning Software Testing Tools, cloud computing, and automation.
 - 🚀 Interested in building practical solutions to real-world problems.
-- 🎯 Goal: Become an AI Product Engineer with strong software engineering and DevOps skills.
+- 🎯 Goal: Become an Software Tester + IOT Engineer with strong software engineering and Testing skills.
 
 ---
 
@@ -101,7 +101,7 @@ An AI-assisted healthcare web application concept for symptom exploration and he
 
 ## 🤝 Connect With Me
 
-- 💻 GitHub: [@Rohithannam143](https://github.com/Rohithannam143)
+- 💻 GitHub: [@SrivalliGulgum](https://github.com/SrivalliGulgum)
 - LinkedIN  : [@rohith-annam-118](https://www.linkedin.com/in/rohith-annam-118n/)
 
 ---
